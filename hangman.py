@@ -160,5 +160,6 @@ def main():
             gameFailed = checkWrongAnswer(missedLetters, secretWord)
 
 
-if __name__ == "__main__":
-    main()
+def main():
+    """Main application entry point."""
+    print('H A N G M A N by Keeyong Han')
